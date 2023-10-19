@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F35E4F4B-AE0B-4B44-8DB4-A1F797507922"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAD0F5B7-5969-4B8A-9DA2-EBD0FE45A2C3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "McDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "fetchWeatherData(latitude:longitude:country:city:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FAD0F5B7-5969-4B8A-9DA2-EBD0FE45A2C3 - c4834629a77983eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "McDemo.ViewController.fetchWeatherData(latitude: Swift.Optional&lt;Swift.Double&gt;, longitude: Swift.Optional&lt;Swift.Double&gt;, country: Swift.Optional&lt;Swift.String&gt;, city: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "McDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imac/Desktop/McDemo/McDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "1955">
+               </Location>
+               <Location
+                  uuid = "FAD0F5B7-5969-4B8A-9DA2-EBD0FE45A2C3 - dcb473cdc45117e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in McDemo.ViewController.fetchWeatherData(latitude: Swift.Optional&lt;Swift.Double&gt;, longitude: Swift.Optional&lt;Swift.Double&gt;, country: Swift.Optional&lt;Swift.String&gt;, city: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "McDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imac/Desktop/McDemo/McDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "261">
+               </Location>
+               <Location
+                  uuid = "FAD0F5B7-5969-4B8A-9DA2-EBD0FE45A2C3 - c4834629a77983eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "McDemo.ViewController.fetchWeatherData(latitude: Swift.Optional&lt;Swift.Double&gt;, longitude: Swift.Optional&lt;Swift.Double&gt;, country: Swift.Optional&lt;Swift.String&gt;, city: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "McDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imac/Desktop/McDemo/McDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "2846">
+               </Location>
+               <Location
+                  uuid = "FAD0F5B7-5969-4B8A-9DA2-EBD0FE45A2C3 - c4834629a77983eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "McDemo.ViewController.fetchWeatherData(latitude: Swift.Optional&lt;Swift.Double&gt;, longitude: Swift.Optional&lt;Swift.Double&gt;, country: Swift.Optional&lt;Swift.String&gt;, city: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "McDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/imac/Desktop/McDemo/McDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "2862">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
