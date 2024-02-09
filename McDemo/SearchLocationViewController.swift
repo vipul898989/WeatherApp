@@ -15,6 +15,7 @@ class SearchLocationViewController: UIViewController {
     @IBOutlet weak var txtCountry: UITextField!
     @IBOutlet weak var txtCity: UITextField!
     
+    
     weak var delegate: SearchDelegate?
     
     override func viewDidLoad() {
